@@ -1,0 +1,351 @@
+05061941 Boilerladung ended, Ofen niedriger als Boilerrucklauf oder < 40Grad 
+05062106 PufferAuf, Ofentauch: 81 oder Zeit 0600
+05062202 PufferZu, Ofentauch: 69 oder Zeit 0800
+05062236 Boilerladung started, Ofen > 55 Grad und heisser als Boilerrucklauf
+05070004 Boilerladung ended, Ofen niedriger als Boilerrucklauf oder < 40Grad 
+05070051 Ofenpumpe aus
+05070600 PufferAuf, Ofentauch: 32 oder Zeit 0600
+05070800 PufferZu, Ofentauch: 30 oder Zeit 0800
+05071011 BoilerOben ist kleiner als 39 genau: 38
+05071241 PufferZu, Ofentauch: 34 oder Zeit 0800
+Ofenmischer auf, Pufferentnahme beendet
+05071312 Ofenpumpe an
+05071313 Boilerladung started, Ofen > 55 Grad und heisser als Boilerrucklauf
+05071422 PufferAuf, Ofentauch: 81 oder Zeit 0600
+05071429 PufferZu, Ofentauch: 68 oder Zeit 0800
+05071445 PufferAuf, Ofentauch: 81 oder Zeit 0600
+05071449 Boilerladung ended, BoilerOben erreicht 61 Grad 
+05071451 PufferZu, Ofentauch: 69 oder Zeit 0800
+05071518 PufferAuf, Ofentauch: 81 oder Zeit 0600
+05071524 PufferZu, Ofentauch: 67 oder Zeit 0800
+05072227 PufferAuf, Ofentauch: 81 oder Zeit 0600
+05072233 PufferZu, Ofentauch: 68 oder Zeit 0800
+05080101 Ofenpumpe aus
+05080500 PufferAuf, Ofentauch: 32 oder Zeit 0600
+05080500 Ofenmischer zu, nur Pufferentladen
+05080700 BoilerOben ist kleiner als 39 genau: 38
+05080800 PufferZu, Ofentauch: 28 oder Zeit 0800
+05080800 Ofenmischer auf, Pufferentnahme beendet
+05082313 BoilerOben ist kleiner als 39 genau: 38
+05090500 PufferAuf, Ofentauch: 16 oder Zeit 0600
+05090500 Ofenmischer zu, nur Pufferentladen
+05090800 PufferZu, Ofentauch: 15 oder Zeit 0800
+05090800 Ofenmischer auf, Pufferentnahme beendet
+05100500 PufferAuf, Ofentauch: 15 oder Zeit 0600
+05100500 Ofenmischer zu, nur Pufferentladen
+05100744 BoilerOben ist kleiner als 39 genau: 38
+05100800 PufferZu, Ofentauch: 15 oder Zeit 0800
+05100800 Ofenmischer auf, Pufferentnahme beendet
+05110500 PufferAuf, Ofentauch: 16 oder Zeit 0600
+05110500 Ofenmischer zu, nur Pufferentladen
+05110727 BoilerOben ist kleiner als 39 genau: 38
+05110800 PufferZu, Ofentauch: 16 oder Zeit 0800
+05110800 Ofenmischer auf, Pufferentnahme beendet
+05111106 Ofenpumpe an
+05111113 PufferZu, Ofentauch: 50 oder Zeit 0800
+05111113 Ofenmischer auf, Pufferentnahme beendet
+05111121 Boilerladung started, Ofen > 55 Grad und heisser als Boilerrucklauf
+05111129 PufferAuf, Ofentauch: 82 oder Zeit 0600
+05111131 haus 2 auf
+05111135 PufferZu, Ofentauch: 62 oder Zeit 0800
+05111137 haus 2 zu
+05111440 Boilerladung ended, Ofen niedriger als Boilerrucklauf oder < 40Grad 
+05111516 Ofenpumpe aus
+05111716 Ofenpumpe an
+05111737 Boilerladung started, Ofen > 55 Grad und heisser als Boilerrucklauf
+05111925 Boilerladung ended, Ofen niedriger als Boilerrucklauf oder < 40Grad 
+05112007 Ofenpumpe aus
+05120500 PufferAuf, Ofentauch: 19 oder Zeit 0600
+05120500 Ofenmischer zu, nur Pufferentladen
+05120800 PufferZu, Ofentauch: 44 oder Zeit 0800
+05120800 Ofenmischer auf, Pufferentnahme beendet
+05120802 BoilerOben ist kleiner als 39 genau: 38
+05120806 Ofenpumpe an
+05120829 Boilerladung started, Ofen > 55 Grad und heisser als Boilerrucklauf
+05121428 Boilerladung ended, BoilerOben erreicht 61 Grad 
+05121454 PufferAuf, Ofentauch: 81 oder Zeit 0600
+05121500 PufferZu, Ofentauch: 68 oder Zeit 0800
+05121523 PufferAuf, Ofentauch: 81 oder Zeit 0600
+05121529 PufferZu, Ofentauch: 64 oder Zeit 0800
+05121549 PufferAuf, Ofentauch: 81 oder Zeit 0600
+05121555 PufferZu, Ofentauch: 67 oder Zeit 0800
+05121835 Ofenpumpe aus
+05122130 BoilerOben ist kleiner als 39 genau: 38
+05130500 PufferAuf, Ofentauch: 19 oder Zeit 0600
+05130500 Ofenmischer zu, nur Pufferentladen
+05130800 PufferZu, Ofentauch: 23 oder Zeit 0800
+05130800 Ofenmischer auf, Pufferentnahme beendet
+05130812 Ofenpumpe an
+05130818 Boilerladung started, Ofen > 55 Grad und heisser als Boilerrucklauf
+05130842 Initialisierung Relais -> DONE
+05130844 haus 2 auf gt85
+05130847 PufferZu, Ofentauch: 63 oder Zeit 0800
+05130847 haus 2 zu lt72
+05131123 Boilerladung ended, BoilerOben erreicht 61 Grad 
+05131200 PufferAuf, Ofentauch: 81 oder Zeit 0600
+05131206 PufferZu, Ofentauch: 62 oder Zeit 0800
+05131725 PufferAuf, Ofentauch: 81 oder Zeit 0600
+05131731 PufferZu, Ofentauch: 64 oder Zeit 0800
+05132015 Ofenpumpe aus
+05132241 BoilerOben ist kleiner als 39 genau: 38
+05140500 PufferAuf, Ofentauch: 18 oder Zeit 0600
+05140500 Ofenmischer zu, nur Pufferentladen
+05140800 PufferZu, Ofentauch: 17 oder Zeit 0800
+05140800 Ofenmischer auf, Pufferentnahme beendet
+05150500 PufferAuf, Ofentauch: 14 oder Zeit 0600
+05150500 Ofenmischer zu, nur Pufferentladen
+05150800 PufferZu, Ofentauch: 13 oder Zeit 0800
+05150800 Ofenmischer auf, Pufferentnahme beendet
+05150959 BoilerOben ist kleiner als 39 genau: 38
+05152121 Ofenpumpe an
+05152154 Boilerladung started, Ofen > 55 Grad und heisser als Boilerrucklauf
+05160055 Boilerladung ended, Ofen niedriger als Boilerrucklauf oder < 40Grad 
+05160120 Ofenpumpe aus
+05160500 PufferAuf, Ofentauch: 27 oder Zeit 0600
+05160500 Ofenmischer zu, nur Pufferentladen
+05160800 PufferZu, Ofentauch: 22 oder Zeit 0800
+05160800 Ofenmischer auf, Pufferentnahme beendet
+05160829 BoilerOben ist kleiner als 39 genau: 38
+05161921 Ofenpumpe an
+05161923 Boilerladung started, Ofen > 55 Grad und heisser als Boilerrucklauf
+05170048 Boilerladung ended, Ofen niedriger als Boilerrucklauf oder < 40Grad 
+05170137 Ofenpumpe aus
+05170500 PufferAuf, Ofentauch: 26 oder Zeit 0600
+05170500 Ofenmischer zu, nur Pufferentladen
+05170800 PufferZu, Ofentauch: 21 oder Zeit 0800
+05170800 Ofenmischer auf, Pufferentnahme beendet
+05171031 Initialisierung Relais -> DONE
+05171031 Ofenpumpe aus
+05171031 Boilerladung ended, Ofen niedriger als Boilerrucklauf oder < 40Grad 
+05171031 PufferZu, Ofentauch: 18 oder Zeit 0800
+05171050 BoilerOben ist kleiner als 39 genau: 38
+05171120 Initialisierung Relais -> DONE
+05171120 Ofenpumpe aus
+05171120 Boilerladung ended, Ofen niedriger als Boilerrucklauf oder < 40Grad 
+05171120 PufferZu, Ofentauch: 17 oder Zeit 0800
+05171158 Initialisierung Relais -> DONE
+05171158 Ofenpumpe aus
+05171158 Boilerladung ended, Ofen niedriger als Boilerrucklauf oder < 40Grad 
+05171158 PufferZu, Ofentauch: 17 oder Zeit 0800
+05171406 Ofenpumpe an
+05171431 Initialisierung Relais -> DONE
+05171431 PufferZu, Ofentauch: 68 oder Zeit 0800
+05171439 Boilerladung ended, Ofen niedriger als Boilerrucklauf oder < 40Grad 
+05171449 Ofenpumpe aus
+05171450 Initialisierung Relais -> DONE
+05171450 PufferZu, Ofentauch: 48 oder Zeit 0800
+05171514 Boilerladung ended, Ofen niedriger als Boilerrucklauf oder < 40Grad 
+05171517 Ofenpumpe aus
+05171526 Ofenpumpe an
+05171540 Ofenpumpe aus
+05171550 Ofenpumpe an
+05171722 Boilerladung started, Ofen > 55 Grad und heisser als Boilerrucklauf
+05171905 Initialisierung Relais -> DONE
+05171910 PufferZu, Ofentauch: 69 oder Zeit 0800
+05172216 Boilerladung ended, Ofen niedriger als Boilerrucklauf oder < 40Grad 
+05172259 Ofenpumpe aus
+05180500 PufferAuf, Ofentauch: 22 oder Zeit 0600
+05180500 Ofenmischer zu, nur Pufferentladen
+05180800 PufferZu, Ofentauch: 19 oder Zeit 0800
+05180800 Ofenmischer auf, Pufferentnahme beendet
+05181034 BoilerOben ist kleiner als 39 genau: 38
+05181145 Ofenpumpe an
+05181158 Boilerladung started, Ofen > 55 Grad und heisser als Boilerrucklauf
+05181756 Boilerladung ended, Ofen niedriger als Boilerrucklauf oder < 40Grad 
+05181938 Ofenpumpe aus
+05190500 PufferAuf, Ofentauch: 19 oder Zeit 0600
+05190500 Ofenmischer zu, nur Pufferentladen
+05190800 PufferZu, Ofentauch: 17 oder Zeit 0800
+05190800 Ofenmischer auf, Pufferentnahme beendet
+05190841 BoilerOben ist kleiner als 39 genau: 38
+05191051 Ofenpumpe an
+05191103 Boilerladung started, Ofen > 55 Grad und heisser als Boilerrucklauf
+05191422 Boilerladung ended, Ofen niedriger als Boilerrucklauf oder < 40Grad 
+05191503 Ofenpumpe aus
+05192205 Ofenpumpe an
+05192234 Boilerladung started, Ofen > 55 Grad und heisser als Boilerrucklauf
+05192259 BoilerOben ist kleiner als 39 genau: 38
+05200036 Boilerladung ended, BoilerOben erreicht 61 Grad 
+05200314 Ofenpumpe aus
+05200500 PufferAuf, Ofentauch: 31 oder Zeit 0600
+05200500 Ofenmischer zu, nur Pufferentladen
+05200800 PufferZu, Ofentauch: 25 oder Zeit 0800
+05200800 Ofenmischer auf, Pufferentnahme beendet
+05201510 BoilerOben ist kleiner als 39 genau: 38
+05201936 Ofenpumpe an
+05201954 Boilerladung started, Ofen > 55 Grad und heisser als Boilerrucklauf
+05202244 Boilerladung ended, Ofen niedriger als Boilerrucklauf oder < 40Grad 
+05202338 Ofenpumpe aus
+05210500 PufferAuf, Ofentauch: 22 oder Zeit 0600
+05210500 Ofenmischer zu, nur Pufferentladen
+05210800 PufferZu, Ofentauch: 19 oder Zeit 0800
+05210800 Ofenmischer auf, Pufferentnahme beendet
+05210844 BoilerOben ist kleiner als 39 genau: 38
+05211723 Ofenpumpe an
+05211740 Boilerladung started, Ofen > 55 Grad und heisser als Boilerrucklauf
+05212306 Boilerladung ended, Ofen niedriger als Boilerrucklauf oder < 40Grad 
+05220018 Ofenpumpe aus
+05220500 PufferAuf, Ofentauch: 21 oder Zeit 0600
+05220500 Ofenmischer zu, nur Pufferentladen
+05220800 PufferZu, Ofentauch: 19 oder Zeit 0800
+05220800 Ofenmischer auf, Pufferentnahme beendet
+05221127 BoilerOben ist kleiner als 39 genau: 38
+05230500 PufferAuf, Ofentauch: 15 oder Zeit 0600
+05230500 Ofenmischer zu, nur Pufferentladen
+05230657 BoilerOben ist kleiner als 39 genau: 38
+05230800 PufferZu, Ofentauch: 14 oder Zeit 0800
+05230800 Ofenmischer auf, Pufferentnahme beendet
+05231329 Ofenpumpe an
+05231337 Boilerladung started, Ofen > 55 Grad und heisser als Boilerrucklauf
+05231408 PufferAuf, Ofentauch: 81 oder Zeit 0600
+05231417 PufferZu, Ofentauch: 69 oder Zeit 0800
+05231425 PufferAuf, Ofentauch: 81 oder Zeit 0600
+05231436 PufferZu, Ofentauch: 69 oder Zeit 0800
+05231444 PufferAuf, Ofentauch: 82 oder Zeit 0600
+05231453 PufferZu, Ofentauch: 68 oder Zeit 0800
+05231457 Boilerladung ended, BoilerOben erreicht 61 Grad 
+05231503 PufferAuf, Ofentauch: 81 oder Zeit 0600
+05231510 PufferZu, Ofentauch: 66 oder Zeit 0800
+05231702 Ofenpumpe aus
+05231746 Ofenpumpe an
+05231845 PufferAuf, Ofentauch: 81 oder Zeit 0600
+05231851 PufferZu, Ofentauch: 65 oder Zeit 0800
+05232128 Ofenpumpe aus
+05232206 Ofenpumpe an
+05232223 Boilerladung started, Ofen > 55 Grad und heisser als Boilerrucklauf
+05232259 BoilerOben ist kleiner als 39 genau: 38
+05240021 Boilerladung ended, BoilerOben erreicht 61 Grad 
+05240025 PufferAuf, Ofentauch: 81 oder Zeit 0600
+05240031 PufferZu, Ofentauch: 67 oder Zeit 0800
+05240320 Ofenpumpe aus
+05240500 PufferAuf, Ofentauch: 31 oder Zeit 0600
+05240500 Ofenmischer zu, nur Pufferentladen
+05240800 PufferZu, Ofentauch: 25 oder Zeit 0800
+05240800 Ofenmischer auf, Pufferentnahme beendet
+05241314 BoilerOben ist kleiner als 39 genau: 38
+05241820 Ofenpumpe an
+05241858 Boilerladung started, Ofen > 55 Grad und heisser als Boilerrucklauf
+05242043 Boilerladung ended, BoilerOben erreicht 61 Grad 
+05250022 Ofenpumpe aus
+05250500 PufferAuf, Ofentauch: 26 oder Zeit 0600
+05250500 Ofenmischer zu, nur Pufferentladen
+05250734 BoilerOben ist kleiner als 39 genau: 38
+05250800 PufferZu, Ofentauch: 21 oder Zeit 0800
+05250800 Ofenmischer auf, Pufferentnahme beendet
+05251852 Ofenpumpe an
+05251901 Boilerladung started, Ofen > 55 Grad und heisser als Boilerrucklauf
+05252152 Boilerladung ended, BoilerOben erreicht 61 Grad 
+05260012 Ofenpumpe aus
+05260500 PufferAuf, Ofentauch: 20 oder Zeit 0600
+05260500 Ofenmischer zu, nur Pufferentladen
+05260800 PufferZu, Ofentauch: 18 oder Zeit 0800
+05260800 Ofenmischer auf, Pufferentnahme beendet
+05260852 Ofenpumpe an
+05261038 Boilerladung started, Ofen > 55 Grad und heisser als Boilerrucklauf
+05261305 Boilerladung ended, Ofen niedriger als Boilerrucklauf oder < 40Grad 
+05261335 Ofenpumpe aus
+05261857 BoilerOben ist kleiner als 39 genau: 38
+05262053 Ofenpumpe an
+05262106 Boilerladung started, Ofen > 55 Grad und heisser als Boilerrucklauf
+05270117 Boilerladung ended, Ofen niedriger als Boilerrucklauf oder < 40Grad 
+05270234 Ofenpumpe aus
+05270500 PufferAuf, Ofentauch: 28 oder Zeit 0600
+05270500 Ofenmischer zu, nur Pufferentladen
+05270800 PufferZu, Ofentauch: 23 oder Zeit 0800
+05270800 Ofenmischer auf, Pufferentnahme beendet
+05271550 BoilerOben ist kleiner als 39 genau: 38
+05271934 Ofenpumpe an
+05272020 Boilerladung started, Ofen > 55 Grad und heisser als Boilerrucklauf
+05272311 Boilerladung ended, Ofen niedriger als Boilerrucklauf oder < 40Grad 
+05280013 Ofenpumpe aus
+05280500 PufferAuf, Ofentauch: 20 oder Zeit 0600
+05280500 Ofenmischer zu, nur Pufferentladen
+05280800 PufferZu, Ofentauch: 18 oder Zeit 0800
+05280800 Ofenmischer auf, Pufferentnahme beendet
+05281153 BoilerOben ist kleiner als 39 genau: 38
+05290500 PufferAuf, Ofentauch: 16 oder Zeit 0600
+05290500 Ofenmischer zu, nur Pufferentladen
+05290655 BoilerOben ist kleiner als 39 genau: 38
+05290800 PufferZu, Ofentauch: 15 oder Zeit 0800
+05290800 Ofenmischer auf, Pufferentnahme beendet
+05300500 PufferAuf, Ofentauch: 16 oder Zeit 0600
+05300500 Ofenmischer zu, nur Pufferentladen
+05300800 PufferZu, Ofentauch: 14 oder Zeit 0800
+05300800 Ofenmischer auf, Pufferentnahme beendet
+05300803 BoilerOben ist kleiner als 39 genau: 38
+05302245 BoilerOben ist kleiner als 39 genau: 38
+05310500 PufferAuf, Ofentauch: 15 oder Zeit 0600
+05310500 Ofenmischer zu, nur Pufferentladen
+05310800 PufferZu, Ofentauch: 14 oder Zeit 0800
+05310800 Ofenmischer auf, Pufferentnahme beendet
+06010013 Ofenpumpe an
+06010046 Ofenpumpe aus
+06010500 PufferAuf, Ofentauch: 26 oder Zeit 0600
+06010500 Ofenmischer zu, nur Pufferentladen
+06010800 PufferZu, Ofentauch: 20 oder Zeit 0800
+06010800 Ofenmischer auf, Pufferentnahme beendet
+06020500 PufferAuf, Ofentauch: 15 oder Zeit 0600
+06020500 Ofenmischer zu, nur Pufferentladen
+06020800 PufferZu, Ofentauch: 14 oder Zeit 0800
+06020800 Ofenmischer auf, Pufferentnahme beendet
+06021429 BoilerOben ist kleiner als 39 genau: 38
+06030500 PufferAuf, Ofentauch: 15 oder Zeit 0600
+06030500 Ofenmischer zu, nur Pufferentladen
+06030800 PufferZu, Ofentauch: 15 oder Zeit 0800
+06030800 Ofenmischer auf, Pufferentnahme beendet
+06030956 BoilerOben ist kleiner als 39 genau: 38
+06040500 PufferAuf, Ofentauch: 15 oder Zeit 0600
+06040500 Ofenmischer zu, nur Pufferentladen
+06040800 PufferZu, Ofentauch: 15 oder Zeit 0800
+06040800 Ofenmischer auf, Pufferentnahme beendet
+06050500 PufferAuf, Ofentauch: 15 oder Zeit 0600
+06050500 Ofenmischer zu, nur Pufferentladen
+06050800 PufferZu, Ofentauch: 16 oder Zeit 0800
+06050800 Ofenmischer auf, Pufferentnahme beendet
+06051856 Initialisierung Relais -> DONE
+06051856 Ofenpumpe aus
+06051856 Boilerladung ended, Ofen niedriger als Boilerrucklauf oder < 40Grad 
+06051856 PufferZu, Ofentauch: 16 oder Zeit 0800
+06060500 PufferAuf, Ofentauch: 16 oder Zeit 0600
+06060500 Ofenmischer zu, nur Pufferentladen
+06060800 PufferZu, Ofentauch: 16 oder Zeit 0800
+06060800 Ofenmischer auf, Pufferentnahme beendet
+06061237 Ofenpumpe an
+06061311 Boilerladung started, Ofen > 55 Grad und heisser als Boilerrucklauf
+06061507 Boilerladung ended, Ofen niedriger als Boilerrucklauf oder < 40Grad 
+06061624 Ofenpumpe aus
+06062158 BoilerOben ist kleiner als 39 genau: 38
+06070500 PufferAuf, Ofentauch: 19 oder Zeit 0600
+06070500 Ofenmischer zu, nur Pufferentladen
+06070800 PufferZu, Ofentauch: 19 oder Zeit 0800
+06070800 Ofenmischer auf, Pufferentnahme beendet
+06080500 PufferAuf, Ofentauch: 17 oder Zeit 0600
+06080500 Ofenmischer zu, nur Pufferentladen
+06080800 PufferZu, Ofentauch: 17 oder Zeit 0800
+06080800 Ofenmischer auf, Pufferentnahme beendet
+06090500 PufferAuf, Ofentauch: 17 oder Zeit 0600
+06090500 Ofenmischer zu, nur Pufferentladen
+06090800 PufferZu, Ofentauch: 17 oder Zeit 0800
+06090800 Ofenmischer auf, Pufferentnahme beendet
+06100500 PufferAuf, Ofentauch: 17 oder Zeit 0600
+06100500 Ofenmischer zu, nur Pufferentladen
+06100800 PufferZu, Ofentauch: 17 oder Zeit 0800
+06100800 Ofenmischer auf, Pufferentnahme beendet
+08111529 Initialisierung Relais -> DONE
+08111529 Ofenpumpe aus
+08111529 Boilerladung ended, Ofen niedriger als Boilerrucklauf oder < 40Grad 
+08111529 PufferZu, Ofentauch: 16 oder Zeit 0800
+08111619 Initialisierung Relais -> DONE
+08111619 Ofenpumpe aus
+08111619 Boilerladung ended, Ofen niedriger als Boilerrucklauf oder < 40Grad 
+08111619 PufferZu, Ofentauch: 16 oder Zeit 0800
+08111759 Initialisierung Relais -> DONE
+08111759 Ofenpumpe aus
+08111759 Boilerladung ended, Ofen niedriger als Boilerrucklauf oder < 40Grad 
+08111759 PufferZu, Ofentauch: 16 oder Zeit 0800
+08112325 Initialisierung Keller-Relais -> DONE
+08112325 Initialisierung Keller-Relais -> DONE
+08112325 Ofenpumpe aus
+08112325 Boilerladung ended, Ofen niedriger als Boilerrucklauf oder < 40Grad 
+08112325 PufferZu, Ofentauch: 16 oder Zeit 0800
+08121011 BoilerOben ist kleiner als 39 genau: 38

@@ -1,0 +1,35 @@
+echo 0 > /sys/class/gpio/gpio5/value 
+echo 1 > /sys/class/gpio/gpio5/value 
+tail -f meldung.txt 
+tail -f tempwerte.txt 
+: 'OfenUndVerteilerIN' && minuten=200 && gnuplot -p -e "set datafile separator ';'; set style line 101 lw 5 lt rgb '#ff00b0'; set style line 102 lw 5 lt rgb '#2f110f'; set style line 103 lw 5 lt rgb '#0fcf10';                                           set yrange [10:100]; set terminal wxt size 1000,800 position 280,224 font ',14'; plot '< tail -$minuten tempwerte.txt | cut -c 5-' using 1:2 title 'Ofentauchh' with lines ls 101, '' using 1:3 title 'OfenReinpum' with lines ls 102, '' using 1:4  title 'OfenOutput' with lines ls 103"
+: 'Boiler_Puffer     ' && minuten=200 && gnuplot -p -e "set datafile separator ';'; set style line 101 lw 5 lt rgb '#09000f'; set style line 102 lw 5 lt rgb '#1234f6'; set style line 103 lw 5 lt rgb '#72bfaa';                                           set yrange [10:100]; set terminal wxt size 1000,800 position 280,224 font ',14'; plot '< tail -$minuten tempwerte.txt | cut -c 5-' using 1:5 title 'BoilerOben' with lines ls 101, '' using 1:6 title 'BoilerUnten' with lines ls 102, '' using 1:12 title 'PufferOben' with lines ls 103"
+: 'Boden_1xRein2xRaus' && minuten=200 && gnuplot -p -e "set datafile separator ';'; set style line 101 lw 5 lt rgb '#184f1f'; set style line 102 lw 5 lt rgb '#f20308'; set style line 103 lw 5 lt rgb '#00f409'; set yrange [10:100]; set terminal wxt size 1000,800 position 280,224 font ',14'; plot '< tail -$minuten tempwerte.txt | cut -c 5-' using 1:9 title 'BodenRein' with lines ls 101, '' using 1:10 title 'DG-raus' with lines ls 102, '' using 1:11 title 'EG_B_Raus' with lines ls 103"
+: 'Haus2Und7UndKeller' && minuten=200 && gnuplot -p -e "set datafile separator ';'; set style line 101 lw 4 lt rgb '#184f1f'; set style line 102 lw 4 lt rgb '#f20308'; set style line 103 lw 5 lt rgb '#00f409'; set style line 104 lw 5 lt rgb '#1bf1f2'; set style line 105 lw 6 lt rgb '#0aaa11'; set style line 106 lw 6 lt rgb '#cc00ee';set yrange [10:100]; set terminal wxt size 1000,800 position 280,224 font ',14'; plot '< tail -$minuten tempwerte.txt | cut -c 5-' using 1:7 title  'Haus2Vor' with lines ls 101, '' using 1:8 title  'Haus2Rue' with lines ls 102, '' using 1:13 title 'Keller_Rueck' with lines ls 103, '' using 1:14 title 'Haus7Ruek' with lines ls 104"
+
+
+pi@raspberrypi:~ $ echo 18 > /sys/class/gpio/export
+pi@raspberrypi:~ $ echo 23 > /sys/class/gpio/export
+pi@raspberrypi:~ $ echo 24 > /sys/class/gpio/export
+pi@raspberrypi:~ $ echo 25 > /sys/class/gpio/export
+pi@raspberrypi:~ $ echo 17 > /sys/class/gpio/export
+pi@raspberrypi:~ $ echo 27 > /sys/class/gpio/export
+pi@raspberrypi:~ $ echo 22 > /sys/class/gpio/export
+pi@raspberrypi:~ $ echo 10 > /sys/class/gpio/export
+pi@raspberrypi:~ $ echo out > /sys/class/gpio/gpio18/direction && sleep 1
+pi@raspberrypi:~ $ echo out > /sys/class/gpio/gpio23/direction && sleep 1
+pi@raspberrypi:~ $ echo out > /sys/class/gpio/gpio24/direction && sleep 1
+pi@raspberrypi:~ $ echo out > /sys/class/gpio/gpio25/direction && sleep 1
+pi@raspberrypi:~ $ echo out > /sys/class/gpio/gpio17/direction && sleep 1
+pi@raspberrypi:~ $ echo out > /sys/class/gpio/gpio27/direction && sleep 1
+pi@raspberrypi:~ $ echo out > /sys/class/gpio/gpio22/direction && sleep 1
+pi@raspberrypi:~ $ echo out > /sys/class/gpio/gpio10/direction && sleep 1
+pi@raspberrypi:~ $ echo 0 > /sys/class/gpio/gpio22/value
+pi@raspberrypi:~ $ echo 1 > /sys/class/gpio/gpio22/value
+pi@raspberrypi:~ $ echo 1 > /sys/class/gpio/gpio27/value
+pi@raspberrypi:~ $ echo 1 > /sys/class/gpio/gpio17/value
+pi@raspberrypi:~ $ echo 0 > /sys/class/gpio/gpio17/value
+pi@raspberrypi:~ $ echo 0 > /sys/class/gpio/gpio27/value
+pi@raspberrypi:~ $ echo 1 > /sys/class/gpio/gpio27/value
+pi@raspberrypi:~ $ echo 1 > /sys/class/gpio/gpio17/value
+pi@raspberrypi:~ $ 
